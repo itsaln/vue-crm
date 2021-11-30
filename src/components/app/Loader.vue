@@ -17,12 +17,23 @@
 </template>
 
 <script>
-  export default {
-    computed: {
-      color() {
-        const colors = ['spinner-red-only', 'spinner-blue-only', 'spinner-green-only']
-        return colors[Math.floor(Math.random() * 3)]
-      }
+export default {
+  computed: {
+    color() {
+      const colors = ['spinner-red-only', 'spinner-blue-only', 'spinner-green-only']
+      return colors[Math.floor(Math.random() * 3)]
     }
   }
+}
 </script>
+
+<style lang="scss" scoped>
+
+.app-loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+</style>
