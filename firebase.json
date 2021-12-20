@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "scorp-vue-crm",
     "public": "dist",
     "ignore": [
       "firebase.json",
