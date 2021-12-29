@@ -1,4 +1,5 @@
-# vue-app
+# vue-crm
+### CRM система написанное на Vue JS
 
 ## Project setup
 ```
