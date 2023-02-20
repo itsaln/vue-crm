@@ -35,7 +35,7 @@ Vue.component('Paginate', Paginate)
 firebase.initializeApp({
   apiKey: "AIzaSyCDPX_NyfLzArqlBgzNN3cjU7xCR38Rq6Q",
   authDomain: "vue-crm-25c35.firebaseapp.com",
-  databaseURL: "https://vue-crm-81e42-default-rtdb.asia-southeast1.firebasedatabase.app",
+  databaseURL: "https://vue-crm-25c35-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "vue-crm-25c35",
   storageBucket: "vue-crm-25c35.appspot.com",
   messagingSenderId: "647897077606",
