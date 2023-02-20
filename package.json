@@ -1,7 +1,14 @@
 {
   "name": "vue-crm",
+  "description": "CRM system",
   "version": "0.1.0",
+  "author": {
+    "email": "itsaln23@gmail.com",
+    "name": "Aladin itsaln.web.app",
+    "url": "https://itsaln.web.app"
+  },
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
